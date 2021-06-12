@@ -179,5 +179,4 @@ option = "b"
             bet_size = gets.chomp.to_i
         end
     end
-
 end
